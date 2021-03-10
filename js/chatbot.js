@@ -81,9 +81,6 @@ $(function () {
 
     });
 
-
-});
-
 function postAjax(query,sessionid){
     $.ajax({
         type: 'post',
